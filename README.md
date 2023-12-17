@@ -1,5 +1,6 @@
 # SpaceScreenSaver
-Pixel Plants Orbiting the Sun, each planet has their own orbit speed.
+Pixel Plants Orbiting the Sun, each planet has their own orbit speed. 
+Note: it is most definitely not to scale.
 Currently has Earth, Mars and Venus.
 Saturn and Mercury are also available just that their code is all commented - it tends to get very cluttered.
 
